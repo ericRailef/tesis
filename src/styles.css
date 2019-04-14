@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    background-color: #000000
+}
+
+
+h2{
+    color: blueviolet;
+    text-align: center;
+}
